@@ -2,9 +2,9 @@
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 <h1 align="center">Hi , I'm Carlos Saenz<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
  
-<h3 > 👨🏻‍💻 About Me </h3>
+<h3 > 👨🏻‍💻 Sobre mi </h3>
 
-<h4 >👋 ¡Hola! Soy Carlos, un desarrollador web autodidacta con experiencia en HTML, CSS, Bootstrap y JavaScript, y estoy en el camino para convertirme en experto en el desarrollo de sitios web. Actualmente estoy estudiando en el SENA, donde me preparo como Técnico en Análisis y Desarrollo de Software.
+<h4 >👋 Soy Carlos, un desarrollador web autodidacta con experiencia en HTML, CSS, Bootstrap y JavaScript, y estoy en el camino para convertirme en experto en el desarrollo de sitios web. Actualmente estoy estudiando en el SENA, donde me preparo como Técnico en Análisis y Desarrollo de Software.
 </h4>
 
 <h3 >🔨 Habilidades:</h3>
