@@ -1,7 +1,7 @@
 
 
-<h1 align="center">Hola, Soy Carlos Saenz<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h3 align="center">Transformando ideas en experiencias web, con cada línea de código.<h3>
+<h1 align="center">Hello, I'm Carlos Saenz<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h3 align="center">Transforming ideas into web experiences, with each line of code.<h3>
 <h4 align="center">Frontend Developer & OpenSource</h4>
 
 <p align="center">
@@ -11,7 +11,7 @@
 	<img align="center" alt="HTML" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </p>
 
-<p align="center">Actualmente estoy participando en desafios de desarrollo web y código abierto que comencé no hace mas de un año. Me comprometí a contribuir cada día a proyectos open source enfocados en mejorar la experiencia web. 📈 Me apasiona el desarrollo web y busco convertirme en un experto en la construcción de experiencias de usuario de alta calidad como frontend developer</p>
+<p align="center">I am currently participating in web development and open source challenges that I started no more than a year ago. I committed to contributing every day to open source projects focused on improving the web experience. 📈 I am passionate about web development and seek to become an expert in building high-quality user experiences as a frontend developer</p>
 
 <h4 align="center">Languages and Tools</h4>
 
